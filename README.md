@@ -35,11 +35,11 @@ This module is a special plug-in for the rich text editor `vue-quill-editor`, wh
 -   Version 1.0.1
 
     1. 插入、粘贴、拖拽图片上传至服务器，自定义上传路径 Insert, paste, drag and drop pictures to upload to the server, customize the upload path
-    2. 限制图片大小功能 Limit image size function
+    2. 限制图片大小功能 Limit  size function
     3. 限制上传图片类型 Restrict upload image types
     4. 显示上传进度 Show upload progress
     5. 显示上传成功或失败 Show upload success or failure
-    6. 支持与其他插件共同使用 Supports common use with other plugins
+    6. 支持与其他插件共同使用 Supports common use with other plugins etc pixel color online https://pixel-color-online.com/
 
 -   Version 1.0.2
 
